@@ -41,7 +41,7 @@ Start the aplication
   
 
 
-## 🛠 Ferramentas usadas ⌨
+## 🛠 Used Tools ⌨
 -  NextJS is the main protagonist, he is responsible for the core of the application.
 > Used Tools for NextJS.
 > - API routs, static site generation, server side rendering, static and dynamic page routing and others resources.
